@@ -1,4 +1,4 @@
 # anodet
 
-add infer and train
+add my infer and train
 
