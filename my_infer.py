@@ -6,8 +6,8 @@ import cv2
 from torch.utils.data import DataLoader
 import matplotlib.pyplot as plt
 
-DATASET_PATH = os.path.realpath("/home/wy/anodet/data/")
-MODEL_DATA_PATH = os.path.realpath("/home/wy/anodet/distributions/")
+DATASET_PATH = os.path.realpath("/home/../anodet/data/")
+MODEL_DATA_PATH = os.path.realpath("/home/../anodet/distributions/")
 
 paths = [
     os.path.join(DATASET_PATH, "bottle/test/broken_large/000.png"),
